@@ -1,1 +1,1 @@
-# index.html
+Currently a computer engineering student interested in web application development.
